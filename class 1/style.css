@@ -1,0 +1,51 @@
+/* Select by id */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+    line-height: 1.25;
+}
+#dummy-selector {
+    background-color: blue;
+    width: 100px;
+    border-radius: 6px;
+    color: white;
+    padding: 3px 12px 6px 9px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.amazing-button {
+    background-color: rgb(46, 243, 105);
+    border-radius: 6px;
+    color: white;
+    padding: 3px 12px 6px 9px;
+    text-align: center;
+    margin-bottom: 30px;
+    display: inline-block;
+    border: 1px solid #019001;
+    cursor: pointer;
+}
+
+.amazing-button:hover {
+    background-color: rgb(197, 253, 67);
+}
+
+.demo-box {
+    height:3rem;
+}
+.box-1{
+    width: 30px;
+    height: 30px;
+    border-radius: 6px;
+}
+.box-2{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 6px;
+}
+.box-3{
+    width: 80px;
+    height: 80px;
+    border-radius: 6px;
+}
